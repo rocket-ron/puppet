@@ -1,0 +1,15 @@
+[submodule "modules/yumgroup"]
+	path = modules/yumgroup
+	url = https://github.com/rocket-ron/puppet-yumgroup.git
+[submodule "modules/mongodb"]
+	path = modules/mongodb
+	url = https://github.com/puppetlabs/puppetlabs-mongodb.git
+[submodule "modules/stdlib"]
+	path = modules/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
+[submodule "modules/puppetlabs-firewall"]
+	path = modules/puppetlabs-firewall
+	url = https://github.com/puppetlabs/puppetlabs-firewall.git
+[submodule "puppet-bootstrap"]
+	path = puppet-bootstrap
+	url = https://github.com/rocket-ron/puppet-bootstrap.git

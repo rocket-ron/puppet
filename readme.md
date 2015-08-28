@@ -1,0 +1,2 @@
+# Puppet Module Collection
+This repository is a general collection of Puppet Modules that I find useful in doing my projects. It consists mainly of git submodules with a sprinkling of arguably original bits here and there.
