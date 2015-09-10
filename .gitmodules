@@ -13,3 +13,6 @@
 [submodule "puppet-bootstrap"]
 	path = puppet-bootstrap
 	url = https://github.com/rocket-ron/puppet-bootstrap.git
+[submodule "modules/puppetlabs-rabbitmq"]
+	path = modules/puppetlabs-rabbitmq
+	url = https://github.com/puppetlabs/puppetlabs-rabbitmq.git
